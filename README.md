@@ -1,6 +1,4 @@
--  @skullro
-- hi
-- i wanna make shaders but i suck at coding
+
 
 <!---
 skullro/skullro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
